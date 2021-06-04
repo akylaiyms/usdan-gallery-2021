@@ -117,19 +117,19 @@ var APP_DATA = {
         {
           "yaw": 0.6514740021575243,
           "pitch": -0.06983961164872099,
-          "title": "A",
+          "title": "Alex Parrasch",
           "text": "Text"
         },
         {
           "yaw": -1.3589233861545509,
           "pitch": 0.018548720910505523,
-          "title": "B",
+          "title": "Izzy Ioffreda",
           "text": "Text"
         },
         {
           "yaw": 1.305835643384972,
           "pitch": 0.22354525811503478,
-          "title": "ALEX HOFFMAN",
+          "title": "Alex Hoffman",
           "text": "Text"
         }
       ] // END
@@ -187,31 +187,31 @@ var APP_DATA = {
         {
           "yaw": -1.5123903989417542,
           "pitch": -0.11734295613311829,
-          "title": "C<div><br></div>",
+          "title": "Louisa Parker",
           "text": "Text"
         },
         {
           "yaw": 0.8160135401177726,
           "pitch": -0.10516524045489106,
-          "title": "D",
+          "title": "Charlotte Zinsser",
           "text": "Text"
         },
         {
           "yaw": 1.9108363636383539,
           "pitch": 0.45414418625164465,
-          "title": "E",
+          "title": "Alex Hoffman",
           "text": "Text"
         },
         {
           "yaw": 2.2865215289209857,
           "pitch": 0.20880334484721352,
-          "title": "F",
+          "title": "Sasha Black",
           "text": "Text"
         },
         {
           "yaw": -2.617273275651705,
           "pitch": -0.027793149967482833,
-          "title": "G",
+          "title": "Nirmohi Belvalkar",
           "text": "Text"
         }
       ]
@@ -269,25 +269,25 @@ var APP_DATA = {
         {
           "yaw": -2.35900338809793,
           "pitch": -0.05207670176206136,
-          "title": "G",
+          "title": "Nirmohi Belvalkar",
           "text": "Text"
         },
         {
           "yaw": 2.390562294107143,
           "pitch": -0.2081463819427487,
-          "title": "I",
+          "title": "Ara Aman",
           "text": "Text"
         },
         {
           "yaw": -2.6031127241519627,
           "pitch": 0.011322084207504801,
-          "title": "H",
+          "title": "Owen Crary",
           "text": "Text"
         },
         {
           "yaw": -3.0810272441790048,
           "pitch": -0.3153353033107038,
-          "title": "J",
+          "title": "Zoe Ilic",
           "text": "Text"
         }
       ]
@@ -339,19 +339,19 @@ var APP_DATA = {
         {
           "yaw": 0.7685281936555644,
           "pitch": -0.18250071008484703,
-          "title": "J",
+          "title": "Zoe Ilic ",
           "text": "Text"
         },
         {
           "yaw": 0.444681013870202,
           "pitch": -0.4813001746063854,
-          "title": "L",
+          "title": "Hanna Stebbins",
           "text": "Text"
         },
         {
           "yaw": 2.8186602902439706,
           "pitch": 0.08165515134859724,
-          "title": "K",
+          "title": "Akanchya Maskay",
           "text": "Text"
         }
       ]
@@ -403,25 +403,25 @@ var APP_DATA = {
         {
           "yaw": -3.0966333659655554,
           "pitch": 0.03866547977406398,
-          "title": "M",
+          "title": "Nick Yohe ",
           "text": "Text"
         },
         {
           "yaw": -0.8589826821112183,
           "pitch": -0.27680382449348784,
-          "title": "N",
+          "title": "Tristan John Ryer-Parke ",
           "text": "Text"
         },
         {
           "yaw": 2.1100391362342954,
           "pitch": 0.027956380755535193,
-          "title": "O",
+          "title": "Emma Ogden-Wolgemuth",
           "text": "Text"
         },
         {
           "yaw": 0.858536039328591,
           "pitch": -0.0914222782893539,
-          "title": "P",
+          "title": "Delilah Silberman",
           "text": "Text"
         }
       ]
@@ -479,31 +479,31 @@ var APP_DATA = {
         {
           "yaw": -1.4045814350518597,
           "pitch": -0.183163454646051,
-          "title": "F",
+          "title": "Sasha Black ",
           "text": "Text"
         },
         {
           "yaw": -1.3475780133114768,
           "pitch": 0.40605467525362116,
-          "title": "E",
+          "title": "Alex Hoffman",
           "text": "Text"
         },
         {
           "yaw": 0.4458398851297236,
           "pitch": -0.13908220956702166,
-          "title": "D",
+          "title": "Charlotte Zinsser",
           "text": "Text"
         },
         {
           "yaw": 2.5044458878017783,
           "pitch": -0.15026919120509064,
-          "title": "Q",
+          "title": "Lydia Thompson ",
           "text": "Text"
         },
         {
           "yaw": -2.637292835164857,
           "pitch": -0.08607213330451913,
-          "title": "P",
+          "title": "Delilah Silberman",
           "text": "Text"
         },
         {
@@ -579,7 +579,7 @@ var APP_DATA = {
         {
           "yaw": 2.6413426086161156,
           "pitch": -0.12417595750669363,
-          "title": "X",
+          "title": "Elias Martel",
           "text": "Text"
         },
         {
@@ -591,13 +591,13 @@ var APP_DATA = {
         {
           "yaw": 1.1720277754735289,
           "pitch": -0.11909657524741846,
-          "title": "S",
+          "title": "Neil Weber",
           "text": "Text"
         },
         {
           "yaw": 0.1668814029951431,
           "pitch": -0.3301369425877887,
-          "title": "ZK",
+          "title": "Benjamin Tersigni",
           "text": "Text"
         },
         {
@@ -609,7 +609,7 @@ var APP_DATA = {
         {
           "yaw": 3.11553945467083,
           "pitch": 0.41100379411207655,
-          "title": "Z",
+          "title": "Maria Matilda Salim",
           "text": "Text"
         }
       ]
@@ -673,13 +673,13 @@ var APP_DATA = {
         {
           "yaw": -2.234289480241557,
           "pitch": 0.02536814842585855,
-          "title": "ZB",
+          "title": "Sonise Lumbaca",
           "text": "Text"
         },
         {
           "yaw": -0.37295988242297184,
           "pitch": 0.10138467226358117,
-          "title": "Z",
+          "title": "Maria Matilda Salim ",
           "text": "Text"
         },
         {
@@ -691,7 +691,7 @@ var APP_DATA = {
         {
           "yaw": 0.12716435885878852,
           "pitch": 0.5540376888939935,
-          "title": "Y",
+          "title": "Shira Ben-David",
           "text": "Text"
         },
         {
@@ -703,13 +703,13 @@ var APP_DATA = {
         {
           "yaw": -2.983569558365625,
           "pitch": 0.09840851906634995,
-          "title": "ZC",
+          "title": "Gabriela Yadegari",
           "text": "Text"
         },
         {
           "yaw": 0.6029336430571455,
           "pitch": 0.029872476978532347,
-          "title": "B",
+          "title": "Izzy Ioffreda",
           "text": "Text"
         }
       ]
@@ -761,37 +761,37 @@ var APP_DATA = {
         {
           "yaw": 0.5008140252765916,
           "pitch": 0.005678152104533041,
-          "title": "ZC",
+          "title": "Gabriela Yadegari",
           "text": "Text"
         },
         {
           "yaw": -1.1415946664277214,
           "pitch": -0.18800401652849352,
-          "title": "ZJ",
+          "title": "Julianna Davis",
           "text": "Text"
         },
         {
           "yaw": -2.3416716069357975,
           "pitch": 0.1304496170287166,
-          "title": "ZD",
+          "title": "Colette O’Brien",
           "text": "Text"
         },
         {
           "yaw": -2.9642688236903822,
           "pitch": 0.14128678211955936,
-          "title": "ZE",
+          "title": "Larry Dembski",
           "text": "Text"
         },
         {
           "yaw": 1.6996105948295135,
           "pitch": 0.05489535694822756,
-          "title": "ZF",
+          "title": "Georgia Williams",
           "text": "Text"
         },
         {
           "yaw": 1.241920392779976,
           "pitch": 0.10678494123689575,
-          "title": "ZG",
+          "title": "Sbobo Ndlangamandla",
           "text": "Text"
         }
       ]
@@ -849,19 +849,19 @@ var APP_DATA = {
         {
           "yaw": -2.7558854522735956,
           "pitch": 0.06964567354925855,
-          "title": "ZG",
+          "title": "Sbobo Ndlangamandla",
           "text": "Text"
         },
         {
           "yaw": -1.4944086835379053,
           "pitch": 0.06947971335571701,
-          "title": "ZF",
+          "title": "Georgia Williams",
           "text": "Text"
         },
         {
           "yaw": -0.31380835784417727,
           "pitch": 0.2639626824468966,
-          "title": "ZC",
+          "title": "Gabriela Yadegari",
           "text": "Text"
         },
         {
