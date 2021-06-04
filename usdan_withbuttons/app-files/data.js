@@ -48,6 +48,7 @@ var APP_DATA = {
           "target": "8-9"
         }
       ],
+      // HOTSPOT
       "infoHotspots": [
         {
           "yaw": 1.175427044973226,
@@ -111,6 +112,7 @@ var APP_DATA = {
           "target": "3-4"
         }
       ],
+      // HOTSPOT
       "infoHotspots": [
         {
           "yaw": 0.6514740021575243,
@@ -180,6 +182,7 @@ var APP_DATA = {
           "target": "3-4"
         }
       ],
+      // HOTSPOT
       "infoHotspots": [
         {
           "yaw": -1.5123903989417542,
@@ -261,6 +264,7 @@ var APP_DATA = {
           "target": "4-5"
         }
       ],
+      // HOTSPOT
       "infoHotspots": [
         {
           "yaw": -2.35900338809793,
@@ -330,6 +334,7 @@ var APP_DATA = {
           "target": "5-6"
         }
       ],
+      // HOTSPOT
       "infoHotspots": [
         {
           "yaw": 0.7685281936555644,
@@ -393,6 +398,7 @@ var APP_DATA = {
           "target": "6-7"
         }
       ],
+      // HOTSPOT
       "infoHotspots": [
         {
           "yaw": -3.0966333659655554,
@@ -468,6 +474,7 @@ var APP_DATA = {
           "target": "2-3"
         }
       ],
+      // HOTSPOT
       "infoHotspots": [
         {
           "yaw": -1.4045814350518597,
@@ -567,6 +574,7 @@ var APP_DATA = {
           "target": "8-9"
         }
       ],
+      // HOTSPOT
       "infoHotspots": [
         {
           "yaw": 2.6413426086161156,
@@ -660,6 +668,7 @@ var APP_DATA = {
           "target": "10-11"
         }
       ],
+      // HOTSPOT
       "infoHotspots": [
         {
           "yaw": -2.234289480241557,
@@ -747,6 +756,7 @@ var APP_DATA = {
           "target": "10-11"
         }
       ],
+      // HOTSPOT
       "infoHotspots": [
         {
           "yaw": 0.5008140252765916,
@@ -828,6 +838,7 @@ var APP_DATA = {
           "target": "8-9"
         }
       ],
+      // HOTSPOT
       "infoHotspots": [
         {
           "yaw": 2.3342266664341693,
