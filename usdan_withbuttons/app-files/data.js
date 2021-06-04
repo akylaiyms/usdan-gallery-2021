@@ -62,7 +62,7 @@ var APP_DATA = {
           "title": "B",
           "text": "Text"
         }
-      ]
+      ] // END 
     },
     {
       "id": "1-2",
@@ -129,10 +129,10 @@ var APP_DATA = {
         {
           "yaw": 1.305835643384972,
           "pitch": 0.22354525811503478,
-          "title": "E",
+          "title": "ALEX HOFFMAN",
           "text": "Text"
         }
-      ]
+      ] // END
     },
     {
       "id": "2-3",
