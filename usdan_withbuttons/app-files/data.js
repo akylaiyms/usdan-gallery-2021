@@ -54,7 +54,7 @@ var APP_DATA = {
           "yaw": 1.175427044973226,
           "pitch": 0.019852284185255087,
           "title": "A",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/alex-parrasch/\" target=\"_blank\">see portfolio</a>\n<img src=\"photos/alex_parrasch.jpeg\" width=\"500\" height=\"auto\">"
         },
         {
           "yaw": 2.1394908609429457,
