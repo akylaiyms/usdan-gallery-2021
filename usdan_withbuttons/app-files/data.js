@@ -213,6 +213,12 @@ var APP_DATA = {
           "pitch": -0.027793149967482833,
           "title": "Nirmohi Belvalkar",
           "text": "Text"
+        },
+        {
+          "yaw": -2.257273275651705,
+          "pitch": -0.177793149967482833,
+          "title": "Maya Villalobos",
+          "text": "Text"
         }
       ]
     },
@@ -270,6 +276,18 @@ var APP_DATA = {
           "yaw": -2.35900338809793,
           "pitch": -0.05207670176206136,
           "title": "Nirmohi Belvalkar",
+          "text": "Text"
+        },
+        {
+          "yaw": -1.55900338809793,
+          "pitch": -0.21207670176206136,
+          "title": "Maya Villalobos",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.9,
+          "pitch": -0.3681463819427487,
+          "title": "Phoebe van Essche",
           "text": "Text"
         },
         {
