@@ -60,7 +60,7 @@ var APP_DATA = {
           "yaw": 2.1394908609429457,
           "pitch": 0.18540190422235625,
           "title": "Izzy Ioffreda",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/izzy-ioffreda/\" target=\"_blank\">see portfolio</a>\n<img src=\"photos/izzy_ioffreda.jpeg\" width=\"500\" height=\"auto\">"
         }
       ] // END 
     },
