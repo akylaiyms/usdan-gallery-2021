@@ -54,13 +54,13 @@ var APP_DATA = {
           "yaw": 1.175427044973226,
           "pitch": 0.019852284185255087,
           "title": "Alex Parrasch",
-          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/alex-parrasch/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/test_photo.png\" width=\"500\" height=\"auto\">"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/alex-parrasch/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/alex_parrasch.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 2.1394908609429457,
           "pitch": 0.18540190422235625,
           "title": "Izzy Ioffreda",
-          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/izzy-ioffreda/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/izzy_ioffreda.JPEG\" width=\"500\" height=\"auto\">"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/izzy-ioffreda/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/izzy_ioffreda.png\" width=\"550\" height=\"auto\">"
         }
       ] // END 
     },
