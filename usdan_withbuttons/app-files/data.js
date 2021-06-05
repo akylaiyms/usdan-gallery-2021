@@ -53,13 +53,13 @@ var APP_DATA = {
         {
           "yaw": 1.175427044973226,
           "pitch": 0.019852284185255087,
-          "title": "A",
+          "title": "Alex Parrasch",
           "text": "Text"
         },
         {
           "yaw": 2.1394908609429457,
           "pitch": 0.18540190422235625,
-          "title": "B",
+          "title": "Izzy Ioffreda",
           "text": "Text"
         }
       ] // END 
@@ -421,13 +421,13 @@ var APP_DATA = {
         {
           "yaw": -3.0966333659655554,
           "pitch": 0.03866547977406398,
-          "title": "Nick Yohe ",
+          "title": "Nick Yohe",
           "text": "Text"
         },
         {
           "yaw": -0.8589826821112183,
           "pitch": -0.27680382449348784,
-          "title": "Tristan John Ryer-Parke ",
+          "title": "Tristan John Ryer-Parke",
           "text": "Text"
         },
         {
@@ -497,7 +497,7 @@ var APP_DATA = {
         {
           "yaw": -1.4045814350518597,
           "pitch": -0.183163454646051,
-          "title": "Sasha Black ",
+          "title": "Sasha Black",
           "text": "Text"
         },
         {
@@ -515,7 +515,7 @@ var APP_DATA = {
         {
           "yaw": 2.5044458878017783,
           "pitch": -0.15026919120509064,
-          "title": "Lydia Thompson ",
+          "title": "Lydia Thompson",
           "text": "Text"
         },
         {
@@ -527,19 +527,19 @@ var APP_DATA = {
         {
           "yaw": 2.094173815857001,
           "pitch": -0.09352299884496063,
-          "title": "R",
+          "title": "Stella Totino",
           "text": "Text"
         },
         {
           "yaw": 0.7698851420247301,
           "pitch": -0.2008046707928326,
-          "title": "w",
+          "title": "Roua Atamaz Sibai",
           "text": "Text"
         },
         {
           "yaw": 1.6553101894616882,
           "pitch": -0.11876687287275267,
-          "title": "T",
+          "title": "Carly Rapoport",
           "text": "Text"
         }
       ]
@@ -603,7 +603,7 @@ var APP_DATA = {
         {
           "yaw": 1.5458505003561118,
           "pitch": 0.0015400932997700068,
-          "title": "T",
+          "title": "Carly Rapoport",
           "text": "Text"
         },
         {
@@ -621,7 +621,7 @@ var APP_DATA = {
         {
           "yaw": -2.7373141790420483,
           "pitch": -0.2448132672167347,
-          "title": "ZA",
+          "title": "Zen Beattie",
           "text": "Text"
         },
         {
@@ -703,7 +703,7 @@ var APP_DATA = {
         {
           "yaw": 0.11863901333589766,
           "pitch": 0.12861976573472944,
-          "title": "ZA",
+          "title": "Zen Beattie",
           "text": "Text"
         },
         {
@@ -715,7 +715,7 @@ var APP_DATA = {
         {
           "yaw": 1.8438576316489481,
           "pitch": -0.02382822718156774,
-          "title": "ZH",
+          "title": "Neil Birch",
           "text": "Text"
         },
         {
@@ -861,7 +861,7 @@ var APP_DATA = {
         {
           "yaw": 2.3342266664341693,
           "pitch": 0.16991789699659776,
-          "title": "ZI",
+          "title": "Sbobo Ndlangamandla",
           "text": "Text"
         },
         {
@@ -885,7 +885,7 @@ var APP_DATA = {
         {
           "yaw": 1.7676072169368027,
           "pitch": -0.08797308114779412,
-          "title": "ZH",
+          "title": "Neil Birch",
           "text": "Text"
         }
       ]
