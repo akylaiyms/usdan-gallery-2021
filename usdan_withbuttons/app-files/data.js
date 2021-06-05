@@ -118,19 +118,19 @@ var APP_DATA = {
           "yaw": 0.6514740021575243,
           "pitch": -0.06983961164872099,
           "title": "Alex Parrasch",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/alex-parrasch/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/alex_parrasch.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": -1.3589233861545509,
           "pitch": 0.018548720910505523,
           "title": "Izzy Ioffreda",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/izzy-ioffreda/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/izzy_ioffreda.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 1.305835643384972,
           "pitch": 0.22354525811503478,
           "title": "Alex Hoffman",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/alex-hoffman/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/alex_hoffman.png\" width=\"550\" height=\"auto\">"
         }
       ] // END
     },
@@ -188,37 +188,37 @@ var APP_DATA = {
           "yaw": -1.5123903989417542,
           "pitch": -0.11734295613311829,
           "title": "Louisa Parker",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/louisa-parker/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/louisa_parker.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 0.8160135401177726,
           "pitch": -0.10516524045489106,
           "title": "Charlotte Zinsser",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/charlotte-zinsser/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/charlotte_zinsser.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 1.9108363636383539,
           "pitch": 0.45414418625164465,
           "title": "Alex Hoffman",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/alex-hoffman/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/alex_hoffman.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 2.2865215289209857,
           "pitch": 0.20880334484721352,
           "title": "Sasha Black",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/sasha-black/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/sasha_black.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": -2.617273275651705,
           "pitch": -0.027793149967482833,
           "title": "Nirmohi Belvalkar",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/nirmohi-belvalkar/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/nirmohi_belvalkar.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": -2.257273275651705,
           "pitch": -0.177793149967482833,
           "title": "Maya Villalobos",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/maya-villalobos/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/nirmohi_belvalkar.png\" width=\"550\" height=\"auto\">"
         }
       ]
     },
@@ -276,37 +276,37 @@ var APP_DATA = {
           "yaw": -2.35900338809793,
           "pitch": -0.05207670176206136,
           "title": "Nirmohi Belvalkar",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/nirmohi-belvalkar/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/nirmohi_belvalkar.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": -1.55900338809793,
           "pitch": -0.21207670176206136,
           "title": "Maya Villalobos",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/maya-villalobos/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/nirmohi_belvalkar.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 0.9,
           "pitch": -0.3681463819427487,
           "title": "Phoebe van Essche",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/phoebe-van-essche/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/phoebe_van_essche_&_ara_aman.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 2.390562294107143,
           "pitch": -0.2081463819427487,
           "title": "Ara Aman",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/ara-aman/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/phoebe_van_essche_&_ara_aman.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": -2.6031127241519627,
           "pitch": 0.011322084207504801,
           "title": "Owen Crary",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/owen-crary/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/owen_crary.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": -3.0810272441790048,
           "pitch": -0.3153353033107038,
           "title": "Zoe Ilic",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/zoe-ilic/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/zoe_ilic.png\" width=\"550\" height=\"auto\">"
         }
       ]
     },
@@ -358,19 +358,19 @@ var APP_DATA = {
           "yaw": 0.7685281936555644,
           "pitch": -0.18250071008484703,
           "title": "Zoe Ilic ",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/zoe-ilic/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/zoe_ilic.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 0.444681013870202,
           "pitch": -0.4813001746063854,
           "title": "Hanna Stebbins",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/hanna-stebbins/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/hanna_stebbins.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 2.8186602902439706,
           "pitch": 0.08165515134859724,
           "title": "Akanchya Maskay",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/akanchya-maskay/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/akanchya_maskay.png\" width=\"550\" height=\"auto\">"
         }
       ]
     },
@@ -422,25 +422,25 @@ var APP_DATA = {
           "yaw": -3.0966333659655554,
           "pitch": 0.03866547977406398,
           "title": "Nick Yohe",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/nick_yohe/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/nick_yohe.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": -0.8589826821112183,
           "pitch": -0.27680382449348784,
           "title": "Tristan John Ryer-Parke",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/tristan-ryer-parke/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/tristan_john_ryer-parke.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 2.1100391362342954,
           "pitch": 0.027956380755535193,
           "title": "Emma Ogden-Wolgemuth",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/emma-ogden-wolgemuth/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/emma_ogden-wolgemuth.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 0.858536039328591,
           "pitch": -0.0914222782893539,
           "title": "Delilah Silberman",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/delilah-silberman/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/delilah_silberman.png\" width=\"550\" height=\"auto\">"
         }
       ]
     },
@@ -498,49 +498,49 @@ var APP_DATA = {
           "yaw": -1.4045814350518597,
           "pitch": -0.183163454646051,
           "title": "Sasha Black",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/sasha-black/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/sasha_black.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": -1.3475780133114768,
           "pitch": 0.40605467525362116,
           "title": "Alex Hoffman",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/alex-hoffman/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/alex_hoffman.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 0.4458398851297236,
           "pitch": -0.13908220956702166,
           "title": "Charlotte Zinsser",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/charlotte-zinsser/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/charlotte_zinsser.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 2.5044458878017783,
           "pitch": -0.15026919120509064,
           "title": "Lydia Thompson",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/lydia-thompson/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/lydia_thompson.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": -2.637292835164857,
           "pitch": -0.08607213330451913,
           "title": "Delilah Silberman",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/delilah-silberman/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/delilah_silberman.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 2.094173815857001,
           "pitch": -0.09352299884496063,
           "title": "Stella Totino",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/stella-totino/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/stella_totino.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 0.7698851420247301,
           "pitch": -0.2008046707928326,
           "title": "Roua Atamaz Sibai",
-          "text": "Text"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/roua-atamaz-sibai/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/roua_atamaz_sibai.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 1.6553101894616882,
           "pitch": -0.11876687287275267,
-          "title": "Carly Rapoport",
-          "text": "Text"
+          "title": "Carly Rappaport",
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/carly-rappaport/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/carly_rapoport.png\" width=\"550\" height=\"auto\">"
         }
       ]
     },
