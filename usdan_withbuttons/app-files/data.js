@@ -288,13 +288,13 @@ var APP_DATA = {
           "yaw": 0.9,
           "pitch": -0.3681463819427487,
           "title": "Specters of the Self (Diptych) by Phoebe van Essche",
-          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/phoebe-van-essche/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/phoebe_van_essche_&_ara_aman.png\" width=\"550\" height=\"auto\">"
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/phoebe-van-essche/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/phoebe_van_essche.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": 2.390562294107143,
           "pitch": -0.2081463819427487,
-          "title": "Radical Interdependence by Ara Aman",
-          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/ara-aman/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/phoebe_van_essche_&_ara_aman.png\" width=\"550\" height=\"auto\">"
+          "title": "Radical Interdependence",
+          "text": "<img src=\"./photos/phoebe_van_essche.png\" width=\"550\" height=\"auto\">"
         },
         {
           "yaw": -2.6031127241519627,
