@@ -57,6 +57,12 @@ var APP_DATA = {
           "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/alex-parrasch/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/alex_parrasch.png\" width=\"550\" height=\"auto\">"
         },
         {
+          "yaw": -1.375427044973226,
+          "pitch": -0.119852284185255087,
+          "title": "Dean Fazzino",
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/dean-fazzino/\" target=\"_blank\">see portfolio</a>"
+        },
+        {
           "yaw": 2.1394908609429457,
           "pitch": 0.18540190422235625,
           "title": "Change by Izzy Ioffreda",
@@ -717,6 +723,12 @@ var APP_DATA = {
           "pitch": -0.02382822718156774,
           "title": "SALVAGE SAMPLES by Neil Birch",
           "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/neil-birch/\" target=\"_blank\">see portfolio</a>\n<img src=\"./photos/neil_birch_2.png\" width=\"550\" height=\"auto\">"
+        },
+        {
+          "yaw": 1.4438576316489481,
+          "pitch": -0.07382822718156774,
+          "title": "Dean Fazzino",
+          "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/dean-fazzino/\" target=\"_blank\">see portfolio</a>"
         },
         {
           "yaw": -2.983569558365625,
