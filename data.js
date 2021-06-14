@@ -59,7 +59,7 @@ var APP_DATA = {
         {
           "yaw": -1.375427044973226,
           "pitch": -0.119852284185255087,
-          "title": "Dean Fazzino",
+          "title": "Work by Dean Fazzino",
           "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/dean-fazzino/\" target=\"_blank\">see portfolio</a>"
         },
         {
@@ -727,7 +727,7 @@ var APP_DATA = {
         {
           "yaw": 1.4438576316489481,
           "pitch": -0.07382822718156774,
-          "title": "Dean Fazzino",
+          "title": "Work by Dean Fazzino",
           "text": "<a href=\"https://seniorshow2021.bennington.edu/portfolio/dean-fazzino/\" target=\"_blank\">see portfolio</a>"
         },
         {
